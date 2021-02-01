@@ -7,6 +7,8 @@ using System.Diagnostics;
 using TMPro;
 
 
+//This is a antColony optimization script found online but altered to fit my needs. With input values best suited for fast and precise calculation
+
 
 // Demo of Ant Colony Optimization (ACO) solving a Traveling Salesman Problem (TSP).
 // There are many variations of ACO; this is just one approach.
