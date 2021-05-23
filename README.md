@@ -4,7 +4,7 @@ Calculates the optimal route.
 
 Gears done in plexiglass with lasercutter. Has been used as puzzles in preschool/primary school.
 
-
+Download here: https://www.dropbox.com/sh/ssqr4q3f0iic6mi/AACE0E65xaUV96X30Gs2yC1Ka?dl=0
 
 
 
