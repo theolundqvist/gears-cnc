@@ -7,6 +7,9 @@ Gears done in plexiglass with lasercutter. Has been used as puzzles in preschool
 Download here: https://www.dropbox.com/sh/ssqr4q3f0iic6mi/AACE0E65xaUV96X30Gs2yC1Ka?dl=0
 
 
+Original route optimization written by Dr. James McCaffrey and then modified to fit this project.
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2012/february/test-run-ant-colony-optimization
+
 
 <img src="https://raw.githubusercontent.com/theolundqvist/images_for_readme/main/gear2.png" width="400" />
 
