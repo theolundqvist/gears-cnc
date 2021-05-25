@@ -4,7 +4,7 @@ Calculates the optimal route.
 
 Gears done in plexiglass with laser cutter. Has been used as puzzles in preschool/primary school.
 
-Download here: <a href="https://www.dropbox.com/sh/ssqr4q3f0iic6mi/AACE0E65xaUV96X30Gs2yC1Ka?dl=0">dropbox</a>
+Download runnable exe here: <a href="https://www.dropbox.com/sh/ssqr4q3f0iic6mi/AACE0E65xaUV96X30Gs2yC1Ka?dl=0">dropbox</a>
 
 
 Original route optimization written by Dr. James McCaffrey and then modified to fit this project: <a href="https://docs.microsoft.com/en-us/archive/msdn-magazine/2012/february/test-run-ant-colony-optimization">docs.microsoft/test-run-ant-colony-optimization</a>
