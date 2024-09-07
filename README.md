@@ -2,7 +2,7 @@
 A Unity project used to create G-Code for use in CNC. Cut perfectly distanced holes in plates for gear placement.
 Calculates the optimal route.
 
-Gears done in plexiglass with laser cutter. Has been used as puzzles in preschool/primary school.
+Gears done in plexiglass with laser cutter. Has been used as puzzles in preschool/primary school together with <a href="https://www.halmstad.se/barnochutbildning/teknikochentreprenorsskolankomtek.n2636.html">Komtek Halmstad</a>.
 
 Download runnable exe here: <a href="https://www.dropbox.com/sh/ssqr4q3f0iic6mi/AACE0E65xaUV96X30Gs2yC1Ka?dl=0">dropbox</a>
 
